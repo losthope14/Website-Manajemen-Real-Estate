@@ -24,4 +24,4 @@ Proyek ini adalah website manajemen real-estate yang dikembangkan menggunakan Co
 
 3. **Instalasi CodeIgniter**
 
-   - Pastikan CodeIgniter yang digunakan kompatibel dengan PHP 7.*. Versi CodeIgniter dapat ditemukan di folder `system`.
+   - Pastikan CodeIgniter yang digunakan kompatibel dengan PHP 7.*. Versi CodeIgniter yang digunakan yaitu Versi 3.1.13.
